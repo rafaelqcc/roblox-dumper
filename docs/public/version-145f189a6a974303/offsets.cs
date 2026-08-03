@@ -1,9 +1,9 @@
 /*
  * Dumped With: roblox-dumper 3.0
  * Created by: Jonah (jonahw on Discord)
- * Github: https://github.com/nopjo/roblox-dumper
+ * Github: https://github.com/movjo/roblox-dumper
  * Roblox Version: version-145f189a6a974303
- * Time Taken: 1947 ms (1.947000 seconds)
+ * Time Taken: 1887 ms (1.887000 seconds)
  * Total Offsets: 278
  */
 
@@ -89,7 +89,7 @@ namespace RobloxOffsets
 
     public static class FakeDataModel
     {
-        public const ulong Pointer = 0x7E29610;
+        public const ulong Pointer = 0x80BA060;
         public const ulong RealDataModel = 0x1D0;
     }
 
@@ -337,7 +337,7 @@ namespace RobloxOffsets
     public static class TaskScheduler
     {
         public const ulong JobEnd = 0xD0;
-        public const ulong JobName = 0xAA0;
+        public const ulong JobName = 0x18;
         public const ulong JobStart = 0xC8;
         public const ulong MaxFps = 0xB0;
         public const ulong Pointer = 0x84A58E0;
@@ -373,7 +373,7 @@ namespace RobloxOffsets
         public const ulong Text = 0xDF8;
         public const ulong TextColor3 = 0x1118;
         public const ulong TextDirection = 0xFB0;
-        public const ulong TextScaled = 0x1006;
+        public const ulong TextScaled = 0xDE1;
         public const ulong TextSize = 0x1144;
         public const ulong TextStrokeColor3 = 0x1124;
         public const ulong TextStrokeTransparency = 0x1148;
@@ -395,13 +395,13 @@ namespace RobloxOffsets
         public const ulong Text = 0xB78;
         public const ulong TextColor3 = 0xE98;
         public const ulong TextDirection = 0xD30;
-        public const ulong TextScaled = 0xD86;
+        public const ulong TextScaled = 0xB61;
         public const ulong TextSize = 0xEC4;
         public const ulong TextStrokeColor3 = 0xEA4;
         public const ulong TextStrokeTransparency = 0xEC8;
         public const ulong TextTransparency = 0xECC;
         public const ulong TextTruncate = 0xED0;
-        public const ulong TextWrapped = 0xD86;
+        public const ulong TextWrapped = 0xD88;
         public const ulong TextXAlignment = 0xED4;
         public const ulong TextYAlignment = 0xCD8;
     }

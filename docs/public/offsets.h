@@ -1,9 +1,9 @@
 /*
  * Dumped With: roblox-dumper 3.0
  * Created by: Jonah (jonahw on Discord)
- * Github: https://github.com/nopjo/roblox-dumper
+ * Github: https://github.com/movjo/roblox-dumper
  * Roblox Version: version-145f189a6a974303
- * Time Taken: 1947 ms (1.947000 seconds)
+ * Time Taken: 1887 ms (1.887000 seconds)
  * Total Offsets: 278
  */
 
@@ -78,7 +78,7 @@ namespace offsets {
     }
 
     namespace FakeDataModel {
-        inline constexpr uintptr_t Pointer = 0x7E29610;
+        inline constexpr uintptr_t Pointer = 0x80BA060;
         inline constexpr uintptr_t RealDataModel = 0x1D0;
     }
 
@@ -304,7 +304,7 @@ namespace offsets {
 
     namespace TaskScheduler {
         inline constexpr uintptr_t JobEnd = 0xD0;
-        inline constexpr uintptr_t JobName = 0xAA0;
+        inline constexpr uintptr_t JobName = 0x18;
         inline constexpr uintptr_t JobStart = 0xC8;
         inline constexpr uintptr_t MaxFps = 0xB0;
         inline constexpr uintptr_t Pointer = 0x84A58E0;
@@ -337,7 +337,7 @@ namespace offsets {
         inline constexpr uintptr_t Text = 0xDF8;
         inline constexpr uintptr_t TextColor3 = 0x1118;
         inline constexpr uintptr_t TextDirection = 0xFB0;
-        inline constexpr uintptr_t TextScaled = 0x1006;
+        inline constexpr uintptr_t TextScaled = 0xDE1;
         inline constexpr uintptr_t TextSize = 0x1144;
         inline constexpr uintptr_t TextStrokeColor3 = 0x1124;
         inline constexpr uintptr_t TextStrokeTransparency = 0x1148;
@@ -358,13 +358,13 @@ namespace offsets {
         inline constexpr uintptr_t Text = 0xB78;
         inline constexpr uintptr_t TextColor3 = 0xE98;
         inline constexpr uintptr_t TextDirection = 0xD30;
-        inline constexpr uintptr_t TextScaled = 0xD86;
+        inline constexpr uintptr_t TextScaled = 0xB61;
         inline constexpr uintptr_t TextSize = 0xEC4;
         inline constexpr uintptr_t TextStrokeColor3 = 0xEA4;
         inline constexpr uintptr_t TextStrokeTransparency = 0xEC8;
         inline constexpr uintptr_t TextTransparency = 0xECC;
         inline constexpr uintptr_t TextTruncate = 0xED0;
-        inline constexpr uintptr_t TextWrapped = 0xD86;
+        inline constexpr uintptr_t TextWrapped = 0xD88;
         inline constexpr uintptr_t TextXAlignment = 0xED4;
         inline constexpr uintptr_t TextYAlignment = 0xCD8;
     }

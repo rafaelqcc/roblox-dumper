@@ -1,8 +1,8 @@
 # Dumped With: roblox-dumper 3.0
 # Created by: Jonah (jonahw on Discord)
-# Github: https://github.com/nopjo/roblox-dumper
+# Github: https://github.com/movjo/roblox-dumper
 # Roblox Version: version-145f189a6a974303
-# Time Taken: 1947 ms (1.947000 seconds)
+# Time Taken: 1887 ms (1.887000 seconds)
 # Total Offsets: 278
 
 class Offsets:
@@ -64,7 +64,7 @@ class Offsets:
         Workspace = 352
 
     class FakeDataModel:
-        Pointer = 132290064
+        Pointer = 134979680
         RealDataModel = 464
 
     class GuiBase2D:
@@ -268,7 +268,7 @@ class Offsets:
 
     class TaskScheduler:
         JobEnd = 208
-        JobName = 2720
+        JobName = 24
         JobStart = 200
         MaxFps = 176
         Pointer = 139090144
@@ -298,7 +298,7 @@ class Offsets:
         Text = 3576
         TextColor3 = 4376
         TextDirection = 4016
-        TextScaled = 4102
+        TextScaled = 3553
         TextSize = 4420
         TextStrokeColor3 = 4388
         TextStrokeTransparency = 4424
@@ -318,13 +318,13 @@ class Offsets:
         Text = 2936
         TextColor3 = 3736
         TextDirection = 3376
-        TextScaled = 3462
+        TextScaled = 2913
         TextSize = 3780
         TextStrokeColor3 = 3748
         TextStrokeTransparency = 3784
         TextTransparency = 3788
         TextTruncate = 3792
-        TextWrapped = 3462
+        TextWrapped = 3464
         TextXAlignment = 3796
         TextYAlignment = 3288
 
