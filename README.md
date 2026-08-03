@@ -2,7 +2,7 @@
 
 ## What Is Roblox Dumper?
 
-Roblox Dumper is a tool that connects to a running Roblox game and automatically scans memory to find offsets for various classes and properties. It generates offset files in multiple formats that you can use in your own external/projects.
+Roblox Dumper is a tool that connects to a running Roblox game and automatically scans memory to find offsets for various classes and properties. It generates offset files in multiple formats that you can use in your own external projects.
 
 ## Setup Guide
 - https://dumper.jonah.cool/setup-guide
@@ -21,3 +21,9 @@ View the guide here - [Link](https://dumper.jonah.cool/)
 ## Contact
 
 Discord: jonahw / 315412038455132160
+
+---
+
+## ⚠️ Disclaimer
+
+**This tool is for educational purposes only.** Using it violates Roblox's Terms of Service and **will result in account termination** if detected. The developers assume no liability for any consequences. Use at your own risk.
